@@ -1,0 +1,23 @@
+{
+  "name": "reactapp",
+  "description": "React application",
+  "main": "index.js",
+  "authors": [
+    "bhavana"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/BhavanamBhavana/JQueryAssignment",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.2.0",
+    "babel": "*",
+    "bootstrap": "^3.3.6"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "pra",
+  "version": "1.0.0",
+  "description": "Movie assignment with React JS",
+  "main": "server.js",
+  "repository": {
+  "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^7.0.0",
+    "mongoose": "^4.4.19",
+    "node-movie": "^2.0.0"
+  }
+}

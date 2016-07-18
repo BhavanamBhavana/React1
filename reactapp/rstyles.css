@@ -1,0 +1,22 @@
+#ModalStyles {
+  width: 65%;
+}
+#posterid ,#dataid{
+  margin-left: 50px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  height: 250px;
+  float: left;
+}
+#posterid {
+  width: 167px;
+}
+#mposterid{
+width: 320px;
+height: 250px;
+}
+#myModalLabel,
+#myModalfooter{
+  text-align: center;
+  font-family: cursive;
+}
